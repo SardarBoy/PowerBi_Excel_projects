@@ -1,6 +1,6 @@
 # Power BI Dashboard Project
 
-This repository contains a Power BI project where I implemented DAX queries to provide detailed insights into various datasets. TThe dashboards provide detailed insights into the data, highlighting key metrics and trends, they are interactive, allowing users to filter and drill down into the data for more detailed analysis.
+This repository contains a Power BI project where I implemented DAX queries to provide detailed insights into various datasets. The dashboards provide detailed insights into the data, highlighting key metrics and trends, they are interactive, allowing users to filter and drill down into the data for more detailed analysis.
 
 ## Screenshots
 
